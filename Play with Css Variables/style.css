@@ -1,0 +1,29 @@
+:root{
+    --bg-color: #81FFFF;
+    --spacing: 2rem;
+    --blur: 1px;
+}
+.hl{
+    color: var(--bg-color);
+    filter: blur(var(--blur));
+}
+body{
+    text-align: center;
+    background-color: rgb(58, 53, 53);
+    color: white;
+    font-size: 2rem;
+}
+.controls{
+    margin-bottom: 4rem;
+}
+input{
+    width: 15rem;
+}
+img{
+    margin: auto;
+    width: 40rem;
+    height: 20rem;
+    padding: var(--spacing);
+    background-color: var(--bg-color);
+    filter: blur(var(--blur));
+}
