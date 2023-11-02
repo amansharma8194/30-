@@ -5,5 +5,5 @@ In which i will create 30 projects continously for 30 days with vanilla JavaScri
 
 Day 1: Drum Kit 
     - Plays Different Sounds based on the key pressed.
-    ! [Drum Kit] (Screenshots/drum_kit.png)
+    ![Drum Kit] (Screenshots/drum_kit.png)
  
