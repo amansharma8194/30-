@@ -30,4 +30,8 @@ In which i will create 30 projects continously for 30 days with vanilla JavaScri
 
 ![cardio_2](https://github.com/amansharma8194/30-Days-JavaScript-Challange/assets/95268373/310b3232-f876-452a-9a69-eb289383daef)
 
+### Day 8: Canvas Painter - Created Canvas with Javascript to draw with hsl colors
+
+![Screenshot (57)](https://github.com/amansharma8194/30-Days-JavaScript-Challange/assets/95268373/91a615b3-05c7-40a0-9228-2146763b76c8)
+
 
