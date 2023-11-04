@@ -34,4 +34,7 @@ In which i will create 30 projects continously for 30 days with vanilla JavaScri
 
 ![Screenshot (57)](https://github.com/amansharma8194/30-Days-JavaScript-Challange/assets/95268373/91a615b3-05c7-40a0-9228-2146763b76c8)
 
+### Day 9: Cheking box with Shift key will mark Check in between all the checkboxes
+
+![Screenshot (59)](https://github.com/amansharma8194/30-Days-JavaScript-Challange/assets/95268373/347bfc5c-48da-4646-a113-2a8d9cc800cd)
 
