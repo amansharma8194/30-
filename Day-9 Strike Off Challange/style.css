@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(185, 156, 30);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+}
+.inbox{
+    background-color: white;
+}
+.item{
+    border-bottom: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 1rem;
+    text-wrap: wrap;
+}
