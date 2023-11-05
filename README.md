@@ -38,3 +38,8 @@ In which i will create 30 projects continously for 30 days with vanilla JavaScri
 
 ![Screenshot (59)](https://github.com/amansharma8194/30-Days-JavaScript-Challange/assets/95268373/347bfc5c-48da-4646-a113-2a8d9cc800cd)
 
+### Day 10: Custom Video Player
+
+![Screenshot (61)](https://github.com/amansharma8194/30-Days-JavaScript-Challange/assets/95268373/080091ff-16c2-46f9-8145-32ebceac97c0)
+
+
