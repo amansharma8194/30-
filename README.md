@@ -42,4 +42,6 @@ In which i will create 30 projects continously for 30 days with vanilla JavaScri
 
 ![Screenshot (61)](https://github.com/amansharma8194/30-Days-JavaScript-Challange/assets/95268373/080091ff-16c2-46f9-8145-32ebceac97c0)
 
+### Day 11: KeyCode detection
 
+![Screenshot (63)](https://github.com/amansharma8194/30-Days-JavaScript-Challange/assets/95268373/7c8e06fd-b9d8-486a-8f15-5cadcb051901)
