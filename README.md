@@ -45,3 +45,8 @@ In which i will create 30 projects continously for 30 days with vanilla JavaScri
 ### Day 11: KeyCode detection
 
 ![Screenshot (63)](https://github.com/amansharma8194/30-Days-JavaScript-Challange/assets/95268373/7c8e06fd-b9d8-486a-8f15-5cadcb051901)
+
+### Day 12: Slide In Out : Shows Fade In and Fade out effect of Images whenver scrolled
+
+![Screenshot (64)](https://github.com/amansharma8194/30-Days-JavaScript-Challange/assets/95268373/1b06a732-eb9e-4b01-839d-8ccab14a8b63)
+
