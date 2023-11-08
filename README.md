@@ -50,3 +50,7 @@ In which i will create 30 projects continously for 30 days with vanilla JavaScri
 
 ![Screenshot (64)](https://github.com/amansharma8194/30-Days-JavaScript-Challange/assets/95268373/1b06a732-eb9e-4b01-839d-8ccab14a8b63)
 
+### Day 13: Save Item: Save Items in Local Storage which persists even after refresh
+
+![Screenshot (65)](https://github.com/amansharma8194/30-Days-JavaScript-Challange/assets/95268373/8104f56f-7059-47f7-8a33-6efafa9b604b)
+
