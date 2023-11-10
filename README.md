@@ -54,3 +54,7 @@ In which i will create 30 projects continously for 30 days with vanilla JavaScri
 
 ![Screenshot (65)](https://github.com/amansharma8194/30-Days-JavaScript-Challange/assets/95268373/8104f56f-7059-47f7-8a33-6efafa9b604b)
 
+### Day 14: WebCam Player: Captures videos, Paste it into a canvas, Apply Filters On Canvas
+
+![Screenshot (66)](https://github.com/amansharma8194/30-Days-JavaScript-Challange/assets/95268373/984ecf6a-b8fe-409c-bd1b-476e74071f64)
+
