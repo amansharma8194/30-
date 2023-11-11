@@ -58,3 +58,7 @@ In which i will create 30 projects continously for 30 days with vanilla JavaScri
 
 ![Screenshot (66)](https://github.com/amansharma8194/30-Days-JavaScript-Challange/assets/95268373/984ecf6a-b8fe-409c-bd1b-476e74071f64)
 
+### Day 15: Following Pill: White Pill Follows the mouse on each Link
+
+![Screenshot (67)](https://github.com/amansharma8194/30-Days-JavaScript-Challange/assets/95268373/64be2071-ed1a-4fa0-95c4-16a95c462def)
+
