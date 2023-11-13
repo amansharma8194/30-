@@ -62,3 +62,7 @@ In which i will create 30 projects continously for 30 days with vanilla JavaScri
 
 ![Screenshot (67)](https://github.com/amansharma8194/30-Days-JavaScript-Challange/assets/95268373/64be2071-ed1a-4fa0-95c4-16a95c462def)
 
+### Day 16: Voicenator:  This is a Voicenator which converts texts into voice. You can choose voices from above DropDown. You can choose from the list of alomost 26 voices. IF you want, you can change Play Back Rate and Pitch of the Voice too. Use Following Buttons to Start and Stop the Speech.
+
+![Screenshot (69)](https://github.com/amansharma8194/30-Days-JavaScript-Challange/assets/95268373/b9568603-97f4-46c0-8ef6-f052c2689223)
+
