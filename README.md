@@ -66,3 +66,6 @@ In which i will create 30 projects continously for 30 days with vanilla JavaScri
 
 ![Screenshot (69)](https://github.com/amansharma8194/30-Days-JavaScript-Challange/assets/95268373/b9568603-97f4-46c0-8ef6-f052c2689223)
 
+### Day 17: Fixed-Nav: While Scrolling whenever nav reaches top of the window, it becomes fixed, Logo appears, Text-wrapper Scales
+
+![Screenshot (70)](https://github.com/amansharma8194/30-Days-JavaScript-Challange/assets/95268373/2e81944c-b597-4024-ad5f-e5de977294f8)
