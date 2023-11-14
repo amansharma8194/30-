@@ -69,3 +69,7 @@ In which i will create 30 projects continously for 30 days with vanilla JavaScri
 ### Day 17: Fixed-Nav: While Scrolling whenever nav reaches top of the window, it becomes fixed, Logo appears, Text-wrapper Scales
 
 ![Screenshot (70)](https://github.com/amansharma8194/30-Days-JavaScript-Challange/assets/95268373/2e81944c-b597-4024-ad5f-e5de977294f8)
+
+### Day 18: Stripe Nav: Created a Navbar with Animation Just Like Stripe 
+
+![Screenshot (72)](https://github.com/amansharma8194/30-Days-JavaScript-Challange/assets/95268373/857fbca5-74b8-4eb7-9d09-43745e39254f)
