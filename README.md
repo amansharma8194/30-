@@ -73,3 +73,7 @@ In which i will create 30 projects continously for 30 days with vanilla JavaScri
 ### Day 18: Stripe Nav: Created a Navbar with Animation Just Like Stripe 
 
 ![Screenshot (72)](https://github.com/amansharma8194/30-Days-JavaScript-Challange/assets/95268373/857fbca5-74b8-4eb7-9d09-43745e39254f)
+
+### Day 19: Double Click and Drag Horizontial Scroll
+
+![Screenshot (73)](https://github.com/amansharma8194/30-Days-JavaScript-Challange/assets/95268373/19e8ee45-f7b7-467b-8d41-da85e819eedf)
