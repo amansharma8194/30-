@@ -77,3 +77,9 @@ In which i will create 30 projects continously for 30 days with vanilla JavaScri
 ### Day 19: Double Click and Drag Horizontial Scroll
 
 ![Screenshot (73)](https://github.com/amansharma8194/30-Days-JavaScript-Challange/assets/95268373/19e8ee45-f7b7-467b-8d41-da85e819eedf)
+
+### Day 20: Timer
+
+![Screenshot (74)](https://github.com/amansharma8194/30-Days-JavaScript-Challange/assets/95268373/9ad6eee4-45d4-4318-9262-c4924b28c2fd)
+
+
