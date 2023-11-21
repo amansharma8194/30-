@@ -82,4 +82,8 @@ In which i will create 30 projects continously for 30 days with vanilla JavaScri
 
 ![Screenshot (74)](https://github.com/amansharma8194/30-Days-JavaScript-Challange/assets/95268373/9ad6eee4-45d4-4318-9262-c4924b28c2fd)
 
+### Day 21: Whack-A-Mole Game
+
+![Screenshot (75)](https://github.com/amansharma8194/30-Days-JavaScript-Challange/assets/95268373/934f4eed-d753-43d4-a021-52f6adffa405)
+
 
